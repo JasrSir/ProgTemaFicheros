@@ -1,0 +1,18 @@
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\bin\Debug\jasr.Relac9Ejerc1y2.exe.config
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\bin\Debug\jasr.Relac9Ejerc1y2.exe
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\bin\Debug\jasr.Relac9Ejerc1y2.pdb
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.csprojResolveAssemblyReference.cache
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.Frm_VentPrincipal1y2.resources
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.Properties.Resources.resources
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.csproj.GenerateResource.Cache
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.exe
+D:\Usuario\Escritorio\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.pdb
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\bin\Debug\jasr.Relac9Ejerc1y2.exe.config
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.exe
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.pdb
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.csprojResolveAssemblyReference.cache
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.Frm_VentPrincipal1y2.resources
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.Properties.Resources.resources
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\obj\Debug\jasr.Relac9Ejerc1y2.csproj.GenerateResource.Cache
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\bin\Debug\jasr.Relac9Ejerc1y2.exe
+G:\FP. DAM\PROG\jasr.Relac9Ejerc1y2\jasr.Relac9Ejerc1y2\bin\Debug\jasr.Relac9Ejerc1y2.pdb

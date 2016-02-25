@@ -1,0 +1,21 @@
+D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe.config
+D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe
+D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.pdb
+D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.exe
+D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.pdb
+C:\Users\JuanAntonio\Desktop\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe.config
+C:\Users\JuanAntonio\Desktop\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.exe
+C:\Users\JuanAntonio\Desktop\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.pdb
+C:\Users\JuanAntonio\Desktop\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe
+C:\Users\JuanAntonio\Desktop\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.pdb
+C:\Users\JuanAntonio\Desktop\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.csprojResolveAssemblyReference.cache
+G:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe.config
+G:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.exe
+G:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe
+G:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.pdb
+G:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.csprojResolveAssemblyReference.cache
+G:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.pdb
+D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.csprojResolveAssemblyReference.cache
+F:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe.config
+F:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.exe
+F:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.pdb
