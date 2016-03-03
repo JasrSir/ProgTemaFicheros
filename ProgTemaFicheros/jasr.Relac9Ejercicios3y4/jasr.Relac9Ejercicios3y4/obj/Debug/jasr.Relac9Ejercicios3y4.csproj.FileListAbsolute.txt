@@ -19,3 +19,9 @@ D:\Usuario\Escritorio\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debu
 F:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe.config
 F:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.exe
 F:\FP. DAM\PROG\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.pdb
+Y:\Git\ProgTemaFicheros\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe.config
+Y:\Git\ProgTemaFicheros\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.exe
+Y:\Git\ProgTemaFicheros\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.pdb
+Y:\Git\ProgTemaFicheros\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.exe
+Y:\Git\ProgTemaFicheros\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\bin\Debug\jasr.Relac9Ejercicios3y4.pdb
+Y:\Git\ProgTemaFicheros\jasr.Relac9Ejercicios3y4\jasr.Relac9Ejercicios3y4\obj\Debug\jasr.Relac9Ejercicios3y4.csprojResolveAssemblyReference.cache
