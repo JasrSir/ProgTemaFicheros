@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*---------------------------------------------------------------------------------------
+ *      Nombre: Relacion 9. Ejercicio 3 y 4
+ *       Autor: Juan Antonio Suárez
+ *     Versión: 1.0
+ *       Fecha: 06/03/2016
+ *  Comentario: Programas que... 3 - copia el contenido de un fichero a otro.
+ *                               4 - copia el contenido de un fichero a otro sin el carácter pasado.
+ *-------------------------------------------------------------------------------------*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

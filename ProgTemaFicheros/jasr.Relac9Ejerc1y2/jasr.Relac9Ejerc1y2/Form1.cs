@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*---------------------------------------------------------------------------------------
+ *      Nombre: Relacion 9. Ejercicio 1 y 2
+ *       Autor: Juan Antonio Suárez
+ *     Versión: 1.0
+ *       Fecha: 06/03/2016
+ *  Comentario: Programas que... 1- Muestra distinta información de una ruta
+ *                               2- Muestra distinta información de un directorio.
+ *-------------------------------------------------------------------------------------*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +28,9 @@ namespace jasr.Relac9Ejerc1y2
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Muestra Información sobre una ruta en concreta.
+        /// </summary>
         private void btn_Extraer_Click(object sender, EventArgs e)
         {
             rtb_InfoPath.Text = string.Empty;
@@ -30,6 +41,9 @@ namespace jasr.Relac9Ejerc1y2
             rtb_InfoPath.Text += Path.GetFullPath(lbl_ruta.Text) + sl;
         }
 
+        /// <summary>
+        /// Muestra Información sobre un directorio.
+        /// </summary>
         private void btn_ElegirArchivo_Click(object sender, EventArgs e)
         {
             DirectoryInfo directorioElegido = null;
@@ -47,9 +61,6 @@ namespace jasr.Relac9Ejerc1y2
                 lbx_DirectoryInfo.Items.Add(directorioElegido.Root);
                 lbx_DirectoryInfo.Items.Add(directorioElegido.Parent);
             }
-
-            
-            //directorioElegido = fbd_BuscaDirectorio.SelectedPath;
         }
     }
 }
