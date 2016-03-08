@@ -79,5 +79,19 @@ namespace jasr.Relac9Ejercicio9
                 } 
             }
         }
+        /// <summary>
+        /// Función de Ayuda
+        /// </summary>
+        static void Ayuda()
+        {
+            Console.WriteLine();
+            Console.WriteLine("".PadRight(10, '='));
+            Console.WriteLine("[ AYUDA  ]");
+            Console.WriteLine("".PadRight(10, '='));
+            Console.WriteLine(" Para acceder a este ejercicio se pide que introduzcan argumentos");
+            Console.WriteLine("  en este orden.. los () son espacios\n");
+            Console.WriteLine(" Nombre_Programa () fichero a mostrar el contenido () fichero a mostrar el contenido () tandos como quiera\n");
+            Console.WriteLine(" DEBEN EXISTIR LOS FICHEROS, Sino se saltará ese fichero al mostrarlo.");
+        }
     }
 }

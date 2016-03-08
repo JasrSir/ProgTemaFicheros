@@ -21,7 +21,10 @@ namespace jasr.Relac9Ejercicio5
         static void Main(string[] args)
         {
             if (args.Length != 1 || !File.Exists(args[0]))
+            {
+                Ayuda();
                 Error();
+            }
             else
                 MostrarArchivo(args[0]);
         }
@@ -59,6 +62,20 @@ namespace jasr.Relac9Ejercicio5
             //Cerramos el archivo y flujo.
             archivo.Close();
             flujoLectura.Close();
+        }
+        /// <summary>
+        /// Función de Ayuda
+        /// </summary>
+        static void Ayuda()
+        {
+            Console.WriteLine();
+            Console.WriteLine("".PadRight(10, '='));
+            Console.WriteLine("[ AYUDA  ]");
+            Console.WriteLine("".PadRight(10, '='));
+            Console.WriteLine(" Para acceder a este ejercicio se pide que introduzcan argumentos");
+            Console.WriteLine("  en este orden.. los () son espacios\n");
+            Console.WriteLine(" Nombre_Programa () fichero a mostrar el contenido\n");
+            Console.WriteLine(" DEBE EXISTIR EL FICHERO, Sino no hará nada.");
         }
     }
 }

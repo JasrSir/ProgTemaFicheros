@@ -117,12 +117,14 @@ namespace jasr.Relac9Ejercicios3y4
         /// <param name="caracterAQuitar">Caráter a quitar del contenido de rutaOrigen</param>
         static void CopiarArchivoSinCaracter(string rutaDestino , string rutaOrigen, char caracterAQuitar)
         {
-            string linea;
-            string lineaModificada;
+            char[] linea;
+            char[] lineaSinCaracter;
+            string lineaEscrita = string.Empty;
+            int numARestar = 0;
             //Si no existe el archivo de destino, se crea
             if (!File.Exists(rutaDestino))
             {
-                rutaDestino = Path.GetFileNameWithoutExtension(rutaOrigen)+ "Copia" + Path.GetExtension(rutaOrigen);
+                rutaDestino = Directory.GetCurrentDirectory() + "\\Copia" + Path.GetFileName(rutaOrigen);
             }
             StreamReader leerLinea = new StreamReader(rutaOrigen);
             StreamWriter escribirLinea = new StreamWriter(rutaDestino, true);
@@ -130,17 +132,27 @@ namespace jasr.Relac9Ejercicios3y4
             {
                 do//Bucle que continúa hasta que se acabe el archivo(null)
                 {
-                    linea = leerLinea.ReadLine();
+                    linea = leerLinea.ReadLine().ToCharArray();
+                    lineaSinCaracter = new char[linea.Length];
                     if (linea != null)
                     {
                         //Recorremos la línea para eliminar los carácteres
                         for (int i = 0; i < linea.Length; i++)
                         {
                             if (linea[i] != caracterAQuitar)
-                                lineaModificada = linea.Remove(i,1);
+                                lineaSinCaracter[i-numARestar] = linea[i];
+                            else
+                                numARestar++;
                         }
-                        escribirLinea.WriteLine(linea);
+                        for (int i = 0; i < lineaSinCaracter.Length; i++)
+			            {
+			                lineaEscrita += lineaSinCaracter[i].ToString();
+			            }
+                        escribirLinea.WriteLine(lineaEscrita);
+                            numARestar=0;
                     }
+                    lineaSinCaracter = null;
+                    lineaEscrita = string.Empty;
                 } while (linea != null);
                 Console.WriteLine("\n".PadRight(75, '='));
                 Console.WriteLine("--> [La operación ha sido un éxito]");
