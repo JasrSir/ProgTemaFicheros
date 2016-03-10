@@ -21,6 +21,7 @@ namespace jasr.Relac9Ejercicio8
 {
     public partial class AlumnosYLista : Form
     {
+        //Campos del programa
         FileStream archivoAlumnos = null;
         StreamReader leerAlumnos = null;
         StreamWriter aniadirAlumnos = null;
@@ -30,7 +31,10 @@ namespace jasr.Relac9Ejercicio8
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Funcion que crea un fichero
+        /// </summary>
+        /// <param name="fi">ruta donde crear el fichero</param>
         private void CrearFichero(string fi)
         {
                 if (!File.Exists(rutaArchivo))
@@ -48,6 +52,10 @@ namespace jasr.Relac9Ejercicio8
                 aniadirAlumnos.WriteLine("Sin Apellidos, " + tbx_Nombre.Text);
             aniadirAlumnos.Close();
         }
+        /// <summary>
+        /// Función que muestra el fichero listándolo
+        /// </summary>
+        /// <param name="fi">ruta donde se sitúa el archivo.</param>
         private void ListarFichero(string fi)
         {
             if (!File.Exists(fi))

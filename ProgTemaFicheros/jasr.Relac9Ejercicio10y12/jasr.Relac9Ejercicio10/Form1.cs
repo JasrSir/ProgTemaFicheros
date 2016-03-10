@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*---------------------------------------------------------------------------------------
+ *      Nombre: Relacion 9. Ejercicio 10 y 12
+ *       Autor: Juan Antonio Suárez
+ *     Versión: 1.0
+ *       Fecha: 09/03/2016
+ *  Comentario: Programa que muestra un archvo al revés(10) y mosrar algunas características (12).
+ *-------------------------------------------------------------------------------------*/﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
